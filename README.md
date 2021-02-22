@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api/?username=EricStratton&show_icons=true&theme=tokyonight&hide_border=true
 <!--
 **EricStratton/EricStratton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +17,7 @@ Here are some ideas to get you started:
 
  <div>
   <p>
-  🌱 I'm currently enrolled in Epicodus training as a Full Stack Web Developer. Feel free to check out my projects and do not hestiate to contact me by <a href=stratttonericj@gmail.com>email</a> or through LinkedIn <a href=https://www.linkedin.com/in/eric-j-stratton/>here</a>.
+  🌱 I'm currently enrolled in Epicodus training as a Full Stack Web Developer. Feel free to check out my projects and do not hestiate to contact me by <a href=mailto:stratttonericj@gmail.com>email</a> or through <a href=https://www.linkedin.com/in/eric-j-stratton/>LinkedIn</a>.
   </p> 
   <p>✨Thank you for stopping by!✨</p>
 </div>
